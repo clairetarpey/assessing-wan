@@ -37,16 +37,16 @@ The goal of this lab was to scan WAN-connected systems, identify security risks,
 ## Screenshots
 
 ### Initial Nmap Scan – Windows 2003 Host
-![Initial Nmap Scan – Windows 2003 Host](./images/initial-nmap-scan-windows-2003.jpeg)
+![Initial Nmap Scan – Windows 2003 Host](./images/initial-nmap-scan-windows-2003.png)
 
 ### Initial Nmap Scan – Windows 2008 Host
-![Initial Nmap Scan – Windows 2008 Host](./images/initial-nmap-scan-windows-2008.jpeg)
+![Initial Nmap Scan – Windows 2008 Host](./images/initial-nmap-scan-windows-2008.png)
 
 ### Malware Remediation with AVG
 ![Malware Remediation with AVG](./images/malware-remediation-avg.png)
 
 ### Windows Firewall Hardening
-![Windows Firewall Hardening](./images/windows-firewall-inbound-rules.jpeg)
+![Windows Firewall Hardening](./images/windows-firewall-inbound-rules.png)
 
 ### Post-Hardening Validation Scan
-![Post-Hardening Validation Scan](./images/post-hardening-nmap-scan.jpeg)
+![Post-Hardening Validation Scan](./images/post-hardening-nmap-scan.png)
